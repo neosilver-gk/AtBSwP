@@ -1,0 +1,30 @@
+A1: * is Op
+    'hello' is str
+    -88.8 is float
+    - is Op
+    / is Op
+    + is Op
+    5 is int
+
+A2: spam is var
+    'spam' is str
+
+A3: string, float, integer
+
+A4: 
+
+A5:
+
+A6: still 20
+
+A7: both 'spamspamspam'
+
+A8: variables not allowed to start with Numbers
+
+A9: for integer int()
+    for string str()
+    for float float()
+
+A10: 99 is a int, and python can't add int to string.
+     replace '+ 99 +' with '+ str(99) +' will fix this.
+
