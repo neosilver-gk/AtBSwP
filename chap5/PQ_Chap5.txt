@@ -1,0 +1,15 @@
+1: {}
+
+2: dic = {'foo': 42}
+
+3: key value pair and just value
+
+4: get an error missing key
+
+5: nothing
+
+6: 'cat' in spam will search for a key, 'cat' in spam.values() would do that in values
+
+7: spam.get('color', 'black')
+
+8: pprint pprint.pprint
