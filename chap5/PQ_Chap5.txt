@@ -1,15 +1,16 @@
-1: {}
+1: {} OK
 
-2: dic = {'foo': 42}
+2: dic = {'foo': 42} OK
 
-3: key value pair and just value
+3: key value pair and just value / dic is unordert, list ist ordert
 
-4: get an error missing key
+4: get an error missing key OK
 
-5: nothing
+5: nothing OK
 
-6: 'cat' in spam will search for a key, 'cat' in spam.values() would do that in values
+6: 'cat' in spam will search for a key, 'cat' in spam.values() would do that in values OK
 
-7: spam.get('color', 'black')
+7: spam.get('color', 'black') / spam.setdefault('color', 'black')
+    spam.get() will just return the default-value (here 'black')
 
-8: pprint pprint.pprint
+8: pprint.pprint() OK

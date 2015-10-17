@@ -11,9 +11,9 @@ def display_inv(inventory):
 def addToInventory(inventory, lootlist):
 
     for lootItem in lootlist:
-        if not lootItem in inventory:
-            inventory = {lootItem: 0}
+        inventory.setdefault(lootItem, 0)
         inventory[lootItem] += 1
+    return inventory
 
 inv = {'gold coin': 42, 'rope': 1}
 dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'rudy']
