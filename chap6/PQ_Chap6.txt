@@ -1,0 +1,21 @@
+1: \ \\ \t \n  OK
+
+2: \n = new line OK
+   \t = a tab OK
+
+3: by using \\ (first will escape the use of the second and will just take ist as it is writen) OK
+
+4: the use of " OK
+
+5: by using """ text """ | it is not nessesery to use \n in strings
+
+6: e; Hello; Hello; lo world! OK
+
+7: HELLO; True; hello OK
+
+8: ['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.'] OK
+   'There-can-be-only-one.' OK
+
+9: rjust(), ljust(), center() OK
+
+10: rstrip(), lstrip() OK
