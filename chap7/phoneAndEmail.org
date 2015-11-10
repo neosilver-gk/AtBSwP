@@ -1,0 +1,20 @@
+
+* Phone Number and E-mail Adress Extractor
+
+** Get the text off the clipboard
+
+*** use pyperclip to read the clipboard
+
+**** TODO import pyperclip to text var
+
+** Find all phone numbers and email addresses in the text
+
+*** create two regexes, one for phone number and one for email
+
+**** TODO create phoneNumber-Regex
+
+**** TODO create email-Regex
+
+*** TODO find all matches, not only the phone numbers for example 
+
+** Past them onto the clipboard
