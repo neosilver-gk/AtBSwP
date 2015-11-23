@@ -1,0 +1,20 @@
+Learn Python
+
+
+* read Chapter 1
+
+** make some excersise
+
+* read Chapter 2
+
+* read Chapter 3
+
+* read Chapter 4
+
+* read Chapter 5
+
+* read Chapter 6
+
+* read Chapter 7
+
+* read Chapter 8
